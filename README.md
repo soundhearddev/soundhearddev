@@ -12,4 +12,8 @@
 
 
 
-projects im working on:
+my project Roadmap:
+ - Secure Python Framework [x]
+ - Lpyip []
+ - A grapic engine in a Terminel []
+ - OpenCV camera stuff []
