@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python Logo" />
-  <h1>SoundHeardDev Projects</h1>
-  <p>Welcome to my personal development space – building creative, secure, and intelligent tools with Python.</p>
+  <h1>SoundheardDev Projects</h1>
 </div>
 
 ---
