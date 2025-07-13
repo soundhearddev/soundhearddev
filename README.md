@@ -13,21 +13,21 @@
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 A list of ongoing and future projects. Milestones are marked with progress indicators:
 
 - [x] **Secure Python Framework**  
-  ✅ Currently on version `v1.3.4`
+   Currently on version `v1.3.4`
 
-- [~] **Lpyip**  
-  🛠️ In development – a custom project currently in progress
+- [ ] **Lpyip**  
+   In development – a custom project currently in progress
 
 - [ ] **Terminal Graphic Engine**  
-  💡 Just an idea for now
+   Just an idea for now
 
 - [ ] **OpenCV Camera Tools**  
-  🎓 Planned for a future school-related project
+   Planned for a future school-related project
 
 
 
