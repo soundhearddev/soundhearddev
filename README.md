@@ -13,54 +13,21 @@
 
 ---
 
-## 🚀 Roadmap
+## 🗺️ Roadmap
 
-A list of ongoing and future projects. I mark milestones as I go!
+A list of ongoing and future projects. Milestones are marked with progress indicators:
 
-- ✅ **Secure Python Framework**  
-  A secure code encryption and execution system using custom encoding + AES encryption.
+- [x] **Secure Python Framework**  
+  ✅ Currently on version `v1.3.4`
 
-- ⏳ **Lpyip**  
-  A custom Python package (possibly for image processing or data handling).
+- [~] **Lpyip**  
+  🛠️ In development – a custom project currently in progress
 
-- 🧪 **Terminal Graphic Engine**  
-  Experimental engine for rendering simple graphics in the terminal.
+- [ ] **Terminal Graphic Engine**  
+  💡 Just an idea for now
 
-- 🎥 **OpenCV Camera Tools**  
-  Developing real-time camera-based utilities with OpenCV and Python.
+- [ ] **OpenCV Camera Tools**  
+  🎓 Planned for a future school-related project
 
----
 
-## 📌 Goals
 
-- Learn by building real-world tools.
-- Keep projects modular, reusable, and open.
-- Blend art (graphics/audio) with security and AI.
-- Share knowledge along the way.
-
----
-
-## 🧠 Tech Stack
-
-- **Languages**: Python, Bash
-- **Libraries**: OpenCV, NumPy, PyCryptodome
-- **Tools**: Git, VS Code, Linux Terminal
-- **Domains**: Security, Computer Vision, CLI Design
-
----
-
-## 🤝 Contributing
-
-Feel free to fork, star, or submit a pull request. Feedback and collaborations are welcome!
-
----
-
-## 📄 License
-
-This repository is under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-  <strong>Made with ❤️ by SoundHeardDev</strong>
-</div>
