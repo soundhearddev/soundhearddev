@@ -26,6 +26,10 @@ A list of ongoing and future projects. Milestones are marked with progress indic
 - [ ] **Lpyip**  
    In development – a custom project currently in progress
 
+- [ ] **Media Streaming with Docker**  
+   Building a lightweight, containerized media server using Docker
+
+
 - [ ] **Terminal Graphic Engine**  
    Just an idea for now
 
