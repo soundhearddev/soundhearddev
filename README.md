@@ -14,7 +14,7 @@
 A list of ongoing and future projects. Milestones are marked with progress indicators:
 
 - [x] **Secure Python Framework**  
-   Currently on version `v1.3.4`
+   Currently on version `v1.3.5`
 
 - [x] **Terminal Graphic Engine**  
    A Library that lets you see images in a terminel
