@@ -5,14 +5,7 @@
 
 ---
 
-<div align="center">
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soundhearddev&show_icons=true&locale=en&layout=compact" alt="soundhearddev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=soundhearddev&show_icons=true&locale=en" alt="soundhearddev" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soundhearddev&" alt="soundhearddev" /></p>
-
-</div>
 
 ---
 
