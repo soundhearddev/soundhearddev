@@ -20,7 +20,7 @@ A list of ongoing and future projects. Milestones are marked with progress indic
    A Library that lets you see images in a terminel
 
 - [ ] **Lpyip**  
-   In development – a custom project currently in progress
+   In development – a crazy project currently in progress
 
 - [ ] **Media Streaming with Docker**  
    Building a lightweight, containerized media server using Docker
