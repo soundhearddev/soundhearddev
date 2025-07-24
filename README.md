@@ -16,6 +16,9 @@ A list of ongoing and future projects. Milestones are marked with progress indic
 - [x] **Secure Python Framework**  
    Currently on version `v1.3.4`
 
+- [x] **Terminal Graphic Engine**  
+   A Library that lets you see images in a terminel
+
 - [ ] **Lpyip**  
    In development – a custom project currently in progress
 
@@ -23,8 +26,7 @@ A list of ongoing and future projects. Milestones are marked with progress indic
    Building a lightweight, containerized media server using Docker
 
 
-- [ ] **Terminal Graphic Engine**  
-   Just an idea for now
+
 
 - [ ] **OpenCV Camera Tools**  
    Planned for a future school-related project
