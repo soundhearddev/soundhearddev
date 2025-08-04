@@ -16,14 +16,15 @@ A list of ongoing and future projects. Milestones are marked with progress indic
 - [x] **Secure Python Framework**  
    Currently on version `v1.3.5`
 
+- [ ] **Secure File Framework**  
+   the same as Secure Python Framwork but with every filetype.
+   This will also be used in another Project
+
 - [x] **Terminal Graphic Engine**  
    A Library that lets you see images in a terminel
 
 - [ ] **Lpyip**  
    In development – a crazy project currently in progress
-
-- [ ] **Media Streaming with Docker**  
-   Building a lightweight, containerized media server using Docker
 
 
 
