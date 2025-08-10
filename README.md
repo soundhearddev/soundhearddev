@@ -18,7 +18,7 @@ A list of ongoing and future projects. Milestones are marked with progress indic
 
 - [ ] **Secure File Framework**  
    the same as Secure Python Framwork but with every filetype.
-   This will also be used in another Project
+   
 
 - [x] **Terminal Graphic Engine**  
    A Library that lets you see images in a terminel
