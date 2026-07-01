@@ -14,7 +14,7 @@
 
 ### Sprachen & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,php,html,css,mariadb,mongodb,docker,bash,arduino,linux,git&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,php,html,css,zig,mariadb,mongodb,docker,bash,arduino,linux,git&theme=dark)](https://skillicons.dev)
 
 ---
 
