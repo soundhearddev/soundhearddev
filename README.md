@@ -20,7 +20,13 @@
 Fortune
 
 <!-- fortuned:start -->
-You will win success in whatever calling you adopt.
+## Daily Fortune
+
+> The human race is a race of cowards; and I am not only marching in that
+> procession but carrying a banner.
+> 		-- Mark Twain
+
+<sub>updated 2026-07-25 23:46 via [fortuned](https://github.com/search?q=fortuned)</sub>
 <!-- fortuned:end -->
 
 
