@@ -22,9 +22,9 @@ Fortune
 <!-- fortuned:start -->
 ## Daily Fortune
 
-> You will be Told about it Tomorrow.  Go Home and Prepare Thyself.
+> «fortune not installed — sudo apt install fortune-mod»
 
-<sub>updated 2026-07-25 23:47 via [fortuned](https://github.com/search?q=fortuned)</sub>
+<sub>🤖 auto-updated 2026-07-26 00:00 · [fortuned](https://github.com/search?q=fortuned+python)</sub>
 <!-- fortuned:end -->
 
 
