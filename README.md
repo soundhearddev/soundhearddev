@@ -22,11 +22,9 @@ Fortune
 <!-- fortuned:start -->
 ## Daily Fortune
 
-> The human race is a race of cowards; and I am not only marching in that
-> procession but carrying a banner.
-> 		-- Mark Twain
+> You will be Told about it Tomorrow.  Go Home and Prepare Thyself.
 
-<sub>updated 2026-07-25 23:46 via [fortuned](https://github.com/search?q=fortuned)</sub>
+<sub>updated 2026-07-25 23:47 via [fortuned](https://github.com/search?q=fortuned)</sub>
 <!-- fortuned:end -->
 
 
