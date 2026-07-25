@@ -20,10 +20,22 @@
 <!-- dailyblurt:start -->
 ## Daily Fortune
 
-> Cubert: "Robots are very good at keeping secrets." 
-> Bender: "No, we're not, you little bed-wetter. Oops, I'm sorry."
+```
+________________________________________
+/ We come to bury DOS, not to praise it. \
+|                                        |
+| -- Paul Vojta, vojta@math.berkeley.edu |
+|                                        |
+\ ( paraphrasing a quote of Shakespeare) /
+ ----------------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
 
-<sub>auto-updated 2026-07-26 01:16 by [dailyblurt](https://github.com/soundhearddev/daily-blurt)</sub>
+<sub>auto-updated 2026-07-26 01:27 by [dailyblurt](https://github.com/soundhearddev/daily-blurt)</sub>
 <!-- dailyblurt:end -->
 
 
