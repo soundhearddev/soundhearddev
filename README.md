@@ -17,12 +17,12 @@
 [![My Skills](https://skillicons.dev/icons?i=python,js,php,html,css,zig,mongodb,docker,bash,arduino,linux,git&theme=dark)](https://skillicons.dev)
 
 ---
+Fortune
 
-### Streak
+<!-- fortuned:start -->
+You will win success in whatever calling you adopt.
+<!-- fortuned:end -->
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soundhearddev&theme=dark" height="180em" />
-</div>
 
 ---
 
