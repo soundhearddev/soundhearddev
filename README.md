@@ -40,17 +40,7 @@
 <!-- dailyblurt:start -->
 ## Daily Fortune
 
-```
-________________________________________
-/ You've been leading a dog's life. Stay \
-\ off the furniture.                     /
- ----------------------------------------
-        \   ^__^
-         \  (oo)\_______
-            (__)\       )\/\
-                ||----w |
-                ||     ||
-```
+> Fry: Where's Captain Bender? Off catastrophizing some other planet?
 
-<sub>auto-updated 2026-07-26 00:29 by [dailyblurt](https://github.com/soundhearddev/daily-blurt)</sub>
+<sub>auto-updated 2026-07-26 01:16 by [dailyblurt](https://github.com/soundhearddev/daily-blurt)</sub>
 <!-- dailyblurt:end -->
