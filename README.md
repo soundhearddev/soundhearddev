@@ -19,12 +19,13 @@
 ---
 <!-- dailyblurt:start -->
 
-```
 <big>
+```
 Cubert: "Robots are very good at keeping secrets."
 Bender: "No, we're not, you little bed-wetter. Oops, I'm sorry."
-</big>
 ```
+</big>
+
 
 <sub>auto-updated 2026-07-26 01:16 by [dailyblurt](https://github.com/soundhearddev/daily-blurt)</sub>
 <!-- dailyblurt:end -->
