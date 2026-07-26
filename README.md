@@ -21,10 +21,13 @@
 ## Daily Fortune
 
 ```
-______________________________________
-( Q: How much does it cost to ride the )
-( Unibus? A: 2 bits.                   )
- --------------------------------------
+_______________________________
+( Civilization is the limitless )
+( multiplication of unnecessary )
+( necessities.                  )
+(                               )
+( -- Mark Twain                 )
+ -------------------------------
    o
     o
         .--.
