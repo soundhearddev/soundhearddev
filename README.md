@@ -20,24 +20,9 @@
 <!-- dailyblurt:start -->
 ## Daily Fortune
 
-```
-______________________________________
-( Farnsworth: Oh my God!! Fry: What is )
-( it? Farnsworth: It's..It's...It's my )
-( new pager!                           )
- --------------------------------------
-   o
-    o
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
-```
+> (fortune not installed. try: sudo apt install fortune)
 
-<sub>auto-updated 2026-07-26 20:21 by [dailyblurt](https://github.com/soundhearddev/daily-blurt) via cowthink -f tux</sub>
+<sub>auto-updated 2026-07-27 00:00 by [dailyblurt](https://github.com/soundhearddev/daily-blurt) via cowthink -f tux</sub>
 <!-- dailyblurt:end -->
 
 
