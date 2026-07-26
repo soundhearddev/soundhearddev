@@ -21,14 +21,11 @@
 ## Daily Fortune
 
 ```
-_________________________________________
-( Q: How many psychiatrists does it take  )
-( to change a light bulb? A: Only one,    )
-( but it takes a long time, and the light )
-( bulb has                                )
-(                                         )
-( to really want to change.               )
- -----------------------------------------
+______________________________________
+( Farnsworth: Oh my God!! Fry: What is )
+( it? Farnsworth: It's..It's...It's my )
+( new pager!                           )
+ --------------------------------------
    o
     o
         .--.
