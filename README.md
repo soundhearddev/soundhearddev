@@ -20,9 +20,22 @@
 <!-- dailyblurt:start -->
 ## Daily Fortune
 
-> (fortune not installed. try: sudo apt install fortune)
+```
+_______________________________________
+( Communities grow from shared stories. )
+ ---------------------------------------
+   o
+    o
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+```
 
-<sub>auto-updated 2026-07-27 00:00 by [dailyblurt](https://github.com/soundhearddev/daily-blurt) via cowthink -f tux</sub>
+<sub>auto-updated 2026-07-27 18:09 by [dailyblurt](https://github.com/soundhearddev/daily-blurt) via cowthink -f tux</sub>
 <!-- dailyblurt:end -->
 
 
