@@ -20,24 +20,9 @@
 <!-- dailyblurt:start -->
 ## Daily Fortune
 
-```
-_______________________________________
-( Your determination defines direction. )
-(                                       )
-( -- Mary Kay Ash                       )
- ---------------------------------------
-   o
-    o
-        .--.
-       |o_o |
-       |:_/ |
-      //   \ \
-     (|     | )
-    /'\_   _/`\
-    \___)=(___/
-```
+> Small kindnesses echo forever.
 
-<sub>auto-updated 2026-07-28 18:31 by [dailyblurt](https://github.com/soundhearddev/daily-blurt) via cowthink -f tux</sub>
+<sub>auto-updated 2026-07-29 00:00 by [dailyblurt](https://github.com/soundhearddev/daily-blurt) via cowthink -f tux</sub>
 <!-- dailyblurt:end -->
 
 
