@@ -20,9 +20,25 @@
 <!-- dailyblurt:start -->
 ## Daily Fortune
 
-> (fortune not installed. try: sudo apt install fortune)
+```
+__________________________________________
+( "That's one small step for Fry..." -Fry  )
+(                                          )
+( "...and one giant line for admission."   )
+( -stranger in line                        )
+ ------------------------------------------
+   o
+    o
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+```
 
-<sub>auto-updated 2026-07-28 00:00 by [dailyblurt](https://github.com/soundhearddev/daily-blurt) via cowthink -f tux</sub>
+<sub>auto-updated 2026-07-28 18:25 by [dailyblurt](https://github.com/soundhearddev/daily-blurt) via cowthink -f tux</sub>
 <!-- dailyblurt:end -->
 
 
