@@ -20,9 +20,11 @@
 <!-- dailyblurt:start -->
 ## Daily Fortune
 
-> Small kindnesses echo forever.
+> There are more things in heaven and earth,
+> Horatio, than are dreamt of in your philosophy.
+> 		-- Wm. Shakespeare, "Hamlet"
 
-<sub>auto-updated 2026-07-29 00:00 by [dailyblurt](https://github.com/soundhearddev/daily-blurt) via cowthink -f tux</sub>
+<sub>auto-updated 2026-07-30 00:00 by [dailyblurt](https://github.com/soundhearddev/daily-blurt) via cowthink -f tux</sub>
 <!-- dailyblurt:end -->
 
 
