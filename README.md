@@ -20,11 +20,9 @@
 <!-- dailyblurt:start -->
 ## Daily Fortune
 
-> There are more things in heaven and earth,
-> Horatio, than are dreamt of in your philosophy.
-> 		-- Wm. Shakespeare, "Hamlet"
+> Leela: "There it is, the near-death star."
 
-<sub>auto-updated 2026-07-30 00:00 by [dailyblurt](https://github.com/soundhearddev/daily-blurt) via cowthink -f tux</sub>
+<sub>auto-updated 2026-07-31 00:00 by [dailyblurt](https://github.com/soundhearddev/daily-blurt) via cowthink -f tux</sub>
 <!-- dailyblurt:end -->
 
 
