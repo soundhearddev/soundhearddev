@@ -20,9 +20,25 @@
 <!-- dailyblurt:start -->
 ## Daily Fortune
 
-> Leela: "There it is, the near-death star."
+```
+_________________________________________
+( Everything you've ever wanted is on the )
+( other side of fear.                     )
+(                                         )
+( -- George Addair                        )
+ -----------------------------------------
+   o
+    o
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+```
 
-<sub>auto-updated 2026-07-31 00:00 by [dailyblurt](https://github.com/soundhearddev/daily-blurt) via cowthink -f tux</sub>
+<sub>auto-updated 2026-07-31 20:49 by [dailyblurt](https://github.com/soundhearddev/daily-blurt)</sub>
 <!-- dailyblurt:end -->
 
 
