@@ -18,12 +18,14 @@
 
 ---
 <!-- dailyblurt:start -->
-## Daily Fortune
-
 ```
-___________________________________
-( Tea carries comfort in every sip. )
- -----------------------------------
+______________________________________
+( The miracle is not to walk on water. )
+( The miracle is to walk on the green  )
+( earth.                               )
+(                                      )
+( -- Thich Nhat Hanh                   )
+ --------------------------------------
    o
     o
         .--.
@@ -34,8 +36,6 @@ ___________________________________
     /'\_   _/`\
     \___)=(___/
 ```
-
-<sub>auto-updated 2026-08-10 18:53 by [dailyblurt](https://github.com/soundhearddev/daily-blurt)</sub>
 <!-- dailyblurt:end -->
 
 
