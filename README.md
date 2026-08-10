@@ -21,12 +21,11 @@
 ## Daily Fortune
 
 ```
-______________________________________
-( Things past redress and now with me  )
-( past care.                           )
-(                                      )
-( -- William Shakespeare, "Richard II" )
- --------------------------------------
+________________________________________
+( Fry: "Make up some feelings and tell   )
+( her you have them. Yes?" Zoidberg: "Is )
+( the desire to mate a feeling?"         )
+ ----------------------------------------
    o
     o
         .--.
