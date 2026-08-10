@@ -18,8 +18,6 @@
 
 ---
 <!-- dailyblurt:start -->
-## Daily Fortune
-
 ```
 ______________________________________
 ( Things past redress and now with me  )
