@@ -1,14 +1,11 @@
 <!-- dailyblurt:start -->
 ```
-_______________________________________
-( Fry: Have you ever been in love?      )
-(                                       )
-( Worm Mayor: No, I thought I was once, )
-( but then I remembered our             )
-(                                       )
-( species reproduces with a cloud of    )
-( spores.                               )
- ---------------------------------------
+____________________________________
+( An honest tale speeds best being   )
+( plainly told.                      )
+(                                    )
+( -- William Shakespeare, "Henry VI" )
+ ------------------------------------
    o
     o
         .--.
