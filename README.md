@@ -19,12 +19,9 @@
 ---
 <!-- dailyblurt:start -->
 ```
-________________________________________
-( "It was just a matter of knowing the   )
-( secret of all TV shows: at the end of  )
-( the episode, everything's always right )
-( back to normal." -Fry                  )
- ----------------------------------------
+______________________________
+( Your presence holds purpose. )
+ ------------------------------
    o
     o
         .--.
