@@ -1,13 +1,9 @@
 <!-- dailyblurt:start -->
 ```
-_____________________________________
-( Dow's Law:                          )
-(                                     )
-( In a hierarchical organization, the )
-( higher the level,                   )
-(                                     )
-( the greater the confusion.          )
- -------------------------------------
+__________________________________
+( Kissing a fish is like smoking a )
+( bicycle.                         )
+ ----------------------------------
    o
     o
         .--.
