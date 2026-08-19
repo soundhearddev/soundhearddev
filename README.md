@@ -1,3 +1,21 @@
 <!-- dailyblurt:start -->
-> (fortune not installed. try: sudo apt install fortune)
+```
+_____________________________________
+( Dow's Law:                          )
+(                                     )
+( In a hierarchical organization, the )
+( higher the level,                   )
+(                                     )
+( the greater the confusion.          )
+ -------------------------------------
+   o
+    o
+        .--.
+       |o_o |
+       |:_/ |
+      //   \ \
+     (|     | )
+    /'\_   _/`\
+    \___)=(___/
+```
 <!-- dailyblurt:end -->
