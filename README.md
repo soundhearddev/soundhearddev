@@ -1,9 +1,10 @@
 <!-- dailyblurt:start -->
 ```
-__________________________________
-( Kissing a fish is like smoking a )
-( bicycle.                         )
- ----------------------------------
+____________________________________
+( I love treason but hate a traitor. )
+(                                    )
+( -- Gaius Julius Caesar             )
+ ------------------------------------
    o
     o
         .--.
