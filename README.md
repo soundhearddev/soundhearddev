@@ -1,10 +1,12 @@
 <!-- dailyblurt:start -->
 ```
-______________________________________
-( It's not reality or how you perceive )
-( things that's important -- it's what )
-( you're taking for it...              )
- --------------------------------------
+_______________________________________
+( It is far more impressive when others )
+( discover your good qualities without  )
+( your help.                            )
+(                                       )
+( -- Miss Manners                       )
+ ---------------------------------------
    o
     o
         .--.
