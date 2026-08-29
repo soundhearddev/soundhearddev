@@ -1,11 +1,12 @@
 <!-- dailyblurt:start -->
 ```
 _______________________________________
-( It is far more impressive when others )
-( discover your good qualities without  )
-( your help.                            )
+( To one large turkey add one gallon of )
+( vermouth and a demijohn of Angostura  )
+( bitters. Shake.                       )
 (                                       )
-( -- Miss Manners                       )
+( -- F. Scott Fitzgerald, recipe for    )
+( turkey cocktail.                      )
  ---------------------------------------
    o
     o
