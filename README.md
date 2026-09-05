@@ -1,13 +1,9 @@
 <!-- dailyblurt:start -->
 ```
-_______________________________________
-( To one large turkey add one gallon of )
-( vermouth and a demijohn of Angostura  )
-( bitters. Shake.                       )
-(                                       )
-( -- F. Scott Fitzgerald, recipe for    )
-( turkey cocktail.                      )
- ---------------------------------------
+________________________________________
+( What this country needs is a good five )
+( cent microcomputer.                    )
+ ----------------------------------------
    o
     o
         .--.
