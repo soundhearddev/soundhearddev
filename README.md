@@ -1,8 +1,10 @@
 <!-- dailyblurt:start -->
 ```
 ________________________________________
-( What this country needs is a good five )
-( cent microcomputer.                    )
+( To get something clean, one has to get )
+( something dirty. To get something      )
+( dirty, one does not have to get        )
+( anything clean.                        )
  ----------------------------------------
    o
     o
