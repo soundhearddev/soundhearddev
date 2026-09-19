@@ -1,11 +1,11 @@
 <!-- dailyblurt:start -->
 ```
-________________________________________
-( To get something clean, one has to get )
-( something dirty. To get something      )
-( dirty, one does not have to get        )
-( anything clean.                        )
- ----------------------------------------
+_______________________________________
+( It's always sad when the fleas leave, )
+( because that means your dog is dead.  )
+(                                       )
+( -- Wesley T. Williams                 )
+ ---------------------------------------
    o
     o
         .--.
