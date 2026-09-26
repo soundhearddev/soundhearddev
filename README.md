@@ -1,11 +1,9 @@
 <!-- dailyblurt:start -->
 ```
-_______________________________________
-( It's always sad when the fleas leave, )
-( because that means your dog is dead.  )
-(                                       )
-( -- Wesley T. Williams                 )
- ---------------------------------------
+________________________________
+( An elephant is a mouse with an )
+( operating system.              )
+ --------------------------------
    o
     o
         .--.
