@@ -1,9 +1,13 @@
 <!-- dailyblurt:start -->
 ```
-________________________________
-( An elephant is a mouse with an )
-( operating system.              )
- --------------------------------
+________________________________________
+( We're happy little Vegemites,          )
+(                                        )
+( As bright as bright can be. We all all )
+( enjoy our Vegemite                     )
+(                                        )
+( For breakfast, lunch and tea.          )
+ ----------------------------------------
    o
     o
         .--.
