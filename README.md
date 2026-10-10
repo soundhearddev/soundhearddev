@@ -1,13 +1,8 @@
 <!-- dailyblurt:start -->
 ```
-________________________________________
-( We're happy little Vegemites,          )
-(                                        )
-( As bright as bright can be. We all all )
-( enjoy our Vegemite                     )
-(                                        )
-( For breakfast, lunch and tea.          )
- ----------------------------------------
+___________________________
+( World War III? No thanks! )
+ ---------------------------
    o
     o
         .--.
