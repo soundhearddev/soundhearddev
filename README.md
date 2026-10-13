@@ -1,8 +1,11 @@
 <!-- dailyblurt:start -->
 ```
-___________________________
-( World War III? No thanks! )
- ---------------------------
+________________________________________
+( All science is either physics or stamp )
+( collecting.                            )
+(                                        )
+( -- Ernest Rutherford                   )
+ ----------------------------------------
    o
     o
         .--.
