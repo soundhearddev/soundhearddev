@@ -1,11 +1,9 @@
 <!-- dailyblurt:start -->
 ```
-________________________________________
-( All science is either physics or stamp )
-( collecting.                            )
-(                                        )
-( -- Ernest Rutherford                   )
- ----------------------------------------
+_____________________________________
+( I appoint you ambassador to Fantasy )
+( Island!!!                           )
+ -------------------------------------
    o
     o
         .--.
