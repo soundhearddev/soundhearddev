@@ -1,9 +1,11 @@
 <!-- dailyblurt:start -->
 ```
-_____________________________________
-( I appoint you ambassador to Fantasy )
-( Island!!!                           )
- -------------------------------------
+_______________________________________
+( The best way to predict the future is )
+( to create it.                         )
+(                                       )
+( -- Peter Drucker                      )
+ ---------------------------------------
    o
     o
         .--.
