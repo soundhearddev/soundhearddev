@@ -1,8 +1,10 @@
 <!-- dailyblurt:start -->
 ```
-_________________________________
-( What PROGRAM are they watching? )
- ---------------------------------
+______________________________________
+( Promptness is its own reward, if one )
+( lives by the clock instead of the    )
+( sword.                               )
+ --------------------------------------
    o
     o
         .--.
